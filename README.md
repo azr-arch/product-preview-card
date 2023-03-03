@@ -5,5 +5,5 @@
 
 
 #LIVE 
-![Hosted at Github](https://azr-arch.github.io/product-preview-card/)
+[Hosted at Github](https://azr-arch.github.io/product-preview-card/)
 
